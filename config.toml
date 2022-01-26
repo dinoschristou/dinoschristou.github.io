@@ -1,0 +1,4 @@
+baseURL = 'http://dinoschristou.github.io/'
+languageCode = 'en-gb'
+title = 'Dinos Christou'
+theme = "ananke"
